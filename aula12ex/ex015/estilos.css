@@ -22,6 +22,12 @@ section{
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.397);
 }
 
+img {
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+  }
+
 
 footer{
     margin-top: 10px;
