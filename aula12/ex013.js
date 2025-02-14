@@ -1,6 +1,6 @@
 var agora = new Date()
 var diaSem = agora.getDay()
-diaSem = 0
+diaSem = 6
 /*
     0 =Domingo
     1 =Segunda 
