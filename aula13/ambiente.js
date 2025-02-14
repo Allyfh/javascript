@@ -1,5 +1,5 @@
 var c = 1
-while (c < 6) {
-    console.log('Tudo bem?')
-    c++
+while (c <= 5) {
+    console.log(`Candidatos: ${c}`)
+    c++ //c = c + 1
 }
